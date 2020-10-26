@@ -1,0 +1,12 @@
+{
+  "users": [],
+  "boards": [
+    {
+      "bid": 1,
+      "bsid": "sdfa",
+      "title": "title",
+      "description": "description",
+      "user_id": "userid"
+    }
+  ]
+}
